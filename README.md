@@ -17,7 +17,7 @@ Nossa empresa presta serviços de prevenção e promoção a saúde mental. Atra
 2. Na coluna "Gender" Os valores 'M','male', 'm', 'Male-ish', 'maile', 'something kinda male?', 'Cis Male', 'Mal', 'Male (CIS)', 'Make', 'Guy (-ish) ^_^' , 'male leaning androgynous', 'Male ',  'Man', 'msle' ,'Mail' , 'cis male', 'Malr', 'Man',  'ostensibly male'  foram substituídos por Male.
 3. Na coluna "Gender" Os valores 'female',  'Cis Female', 'F' ,'Woman' 'f','Femake', 'woman', 'Female ', 'cis-female/femme', 'Female (cis)', 'femail' foram substituídos por Female.
 4. Na coluna "Gender" Os valores 'Trans-female', 'queer/she/they', 'non-binary' ,'Nah', 'All', 'Enby', 'fluid', 'Genderqueer','Androgyne', 'Agender','Trans woman','Neuter', 'Female (trans)', 'queer' foram substituídos por LGBTQIAPN+.
-5. Colçuna "Timestamp" removida.
+5. Coluna "Timestamp" removida.
 6. Na coluna Age os Valores 99999999, -1726, -29, 329, 8, 5 foram substituídos por null.
    6.1 Coluna Age ordenada de forma Descendente.
    6.2 Substituição dos valores null com "Preenchido abaixo".
