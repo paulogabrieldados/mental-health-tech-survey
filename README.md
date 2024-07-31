@@ -41,7 +41,26 @@ Nossa empresa presta serviços de prevenção e promoção a saúde mental. Atra
     ```
 # 🔬 Análise dos Resultados:
 
+1. Perfil dos Participantes
 - Participaram da pesquisa 1259 pessoas.
 - Sendo a Média de Idade de 31,88 anos.
-- 
+- A maioria dos entrevistados estão entre 26-35 anos (701 pessoas)
+- Dos participantes 78.63% se identificam com o gênero Masculino.
+- 70.14% dos entrevistados trabalham de forma presencial.
+- Quando perguntados sobre Histórico Familiar , 767 pessoas relataram possuir Histórico de problemas relacionados a Sáude Mental.
+- 27.16% dos participantes trabalham em Empresas Big Tech.
+
+2. Percepção dos participantes com Relação a Saúde Mental;
+- 39.79% dos participantes não tem conhecimento das opções oferecidas pela empresa sobre cuidado mental.
+- 842 pessoas afirmam que não é discutido saúde mental nos programas de Bem-Estar da empresa.]
+- 50.60% das pessoas relataram ter buscado tratamento quando perceberam sintomas relacionados a sáude mental.
+- Apenas 477 pessoas afirmam que a empresa fornecede programas de cuidado a Saúde Mental.
+- 477 pessoas relatarm ter percebido consequências pessoais quando conversaram com seus supervisores sobre saúde mental.
+- E 36.93% dos participantes perceberam impacto no seu trabalho quando começaram a apresentar problemas de saúde mental.
+
+
+# Evolução & Próximos Passos: 
+- Criação de um Modelo de predição baseado nos dados obtidos.
+
+## Link do Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYTUxMjljZGUtYjlhNC00MTZlLTk5ODktYjlhZGQ3OTY4ZDY3IiwidCI6IjQyOTJlZGZlLTcxN2QtNDgxYy1hZmQwLWUwNWU3NzJiNjhiMiJ9
 
